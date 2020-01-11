@@ -1,2 +1,2 @@
 # share-secret-message
-encrypt messages for public sharing using now service
+encrypt and decrypt messages using base64 and for public sharing using now service
